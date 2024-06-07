@@ -1,0 +1,6 @@
+.main-body {
+  background-color: #e99d72;
+  border-radius: 30px;
+  display: flex;
+  flex-grow: 1;
+}
